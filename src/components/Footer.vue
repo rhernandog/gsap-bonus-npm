@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer">
+  <footer class="footer test">
     <h2>Made with &#x1F496; and GSAP &#x26A1;</h2>
   </footer>
 </template>
